@@ -1,3 +1,3 @@
-let scor=3
-let valueInNumber=number(scor)
-console.log(valueInNumber )
+let isLoggedIn="true"
+ let booleanIsLoggedIn=Boolean(isLoggedIn)
+ console.log(booleanIsLoggedIn)
