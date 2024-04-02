@@ -1,3 +1,3 @@
 let scor="taskeen"
 let valueInNumber=number(scor)
-console.log(typeOf valueInNumber)
+console.log(valueInNumber )
